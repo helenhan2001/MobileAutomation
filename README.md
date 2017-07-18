@@ -7,7 +7,7 @@ At InsightTimer Developments, we expect solid QA skills from our QA team so this
 
 # Background: 
 
-This is one Automation test example using Appoumn for Java test Android App. Based the existing frameworks to automate the Android App. Keep in mind, that you are a professional QA Engineer and you should be adhering to developing code using design pattern(s) and technique(s) to make your code maintainable (hint: think unit tests). 
+This is one Automation test example using Appium for Java test Android App. Based the existing frameworks to automate the Android App. Keep in mind, that you are a professional QA Engineer and you should be adhering to developing code using design pattern(s) and technique(s) to make your code maintainable (hint: think unit tests). 
 
 # TASK:
 
