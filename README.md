@@ -13,7 +13,7 @@ This is one Automation test example using Appium for Java test Android App. Base
 
 The Test apk under /drc/test/java. name is 203.apk. Please use the test apk file to create test cases about "Timer" Page functional. 
   1. Home Page scripts already existing, please using your user name and password to login
-  2. Timer Page already exist some test cases, Please explore "Timer" page functional and contiune add scripts fot Timer Page.
+  2. Timer Page already exist some test cases, Please explore "Timer" page functional and contiune add scripts for Timer Page as much as you can.
  
 You should also be developing code that can be tied to Continuous Delivery infrastructure.
 
